@@ -1,2 +1,0 @@
-# smol-app
-Begin app
